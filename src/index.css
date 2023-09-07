@@ -12,3 +12,8 @@ body {
   margin: 0;
   background-color: #3f3f3f;
 }
+
+h1 {
+  color: white;
+  text-align: center;
+}
